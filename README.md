@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mithula V G| Civil Engineering Portfolio</title>
+  <title>Brindhadevi T| Civil Engineering Portfolio</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -71,9 +71,10 @@
 </head>
 <body>
   <header>
-    <h1>Mithula V G</h1>
+    <h1>Brindha devi T
+    </h1>
     <p>Civil Engineering Student | GCE Salem</p>
-    <p>DOB: 23-05-2007</p>
+    <p>DOB: 14-02-2007</p>
   </header>
 
   <nav>
@@ -85,7 +86,7 @@
 
   <section id="about">
     <h2>About Me</h2>
-    <p>Hi! I’m <b>Mithula V G</b>, a passionate Civil Engineering student from Government College of Engineering, Salem. I’m interested in Structural Design, Surveying, and Construction Management. My goal is to become a professional Structural Engineer.</p>
+    <p>Hi! I’m <b>Brindha devi T</b>, a passionate Civil Engineering student from Government College of Engineering, Salem. I’m interested in Structural Design, Surveying, and Construction Management. My goal is to become a professional Structural Engineer.</p>
   </section>
 
   <section id="projects">
@@ -126,7 +127,7 @@
   </section>
 
   <footer>
-    <p>© 2025 Mithula V G| Civil Engineering Portfolio</p>
+    <p>© 2025 Brindha devi T| Civil Engineering Portfolio</p>
   </footer>
 </body>
 </html>
